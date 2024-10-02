@@ -1,0 +1,14 @@
+pip install telebot
+
+pip install flask
+
+chmod +x *
+
+./Moin
+
+python3 Moin.py
+
+
+bot approve command
+
+/add (user_id) 1days
